@@ -15,6 +15,7 @@ cask skitch
 cask slack
 cask sketch
 cask spotify
+cask docker
 
 tap homebrew/core
 brew autoconf
