@@ -22,6 +22,7 @@ brew autoconf
 brew cmake
 brew coreutils
 brew direnv
+brew elixir
 brew fish
 brew freetype
 brew gdbm
