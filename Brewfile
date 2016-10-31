@@ -4,6 +4,7 @@
 tap caskroom/cask
 cask 1password
 cask alfred
+cask docker
 cask dropbox
 cask github-desktop
 cask google-chrome
@@ -11,11 +12,12 @@ cask google-japanese-ime
 cask gyazo
 cask iterm2
 cask sequel-pro
+cask sketch
 cask skitch
 cask slack
-cask sketch
 cask spotify
-cask docker
+
+tap caskroom/versions
 
 tap homebrew/core
 brew autoconf
@@ -23,6 +25,7 @@ brew cmake
 brew coreutils
 brew direnv
 brew elixir
+brew erlang
 brew fish
 brew freetype
 brew gdbm
@@ -58,6 +61,7 @@ brew sqlite
 brew tig
 brew tree
 brew vim
+brew wxmac
 brew xz
 
 tap motemen/ghq
@@ -66,10 +70,6 @@ tap rcmdnk/file
 brew brew-file
 
 # App Store applications
-appstore 682658836 GarageBand (10.1.2)
-appstore 409183694 Keynote (6.6.2)
 appstore 539883307 LINE (4.10.0)
 appstore 441258766 Magnet (1.9.13)
-appstore 409203825 Numbers (3.6.2)
-appstore 409201541 Pages (5.6.2)
-appstore 408981434 iMovie (10.1.2)
+appstore 866773894 Quiver (3.0.3)
