@@ -49,6 +49,7 @@ brew pcre2
 brew peco
 brew perl
 brew pkg-config
+brew postgresql
 brew pyenv
 brew python
 brew rbenv
