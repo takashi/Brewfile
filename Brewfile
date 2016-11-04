@@ -42,7 +42,7 @@ brew libtool
 brew libyaml
 brew mas
 brew mysql
-brew node
+brew homebrew/versions/node6-lts
 brew oniguruma
 brew openssl
 brew pcre2
