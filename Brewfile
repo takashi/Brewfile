@@ -65,8 +65,6 @@ brew vim
 brew wxmac
 brew xz
 
-tap motemen/ghq
-
 tap rcmdnk/file
 brew brew-file
 
