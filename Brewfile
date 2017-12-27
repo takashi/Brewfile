@@ -15,6 +15,7 @@ cask sketch
 cask skitch
 cask slack
 cask spotify
+cask visual-studio-code
 
 tap caskroom/versions
 
