@@ -9,7 +9,6 @@ cask dropbox
 cask github-desktop
 cask google-chrome
 cask google-japanese-ime
-cask gyazo
 cask iterm2
 cask sequel-pro
 cask sketch
@@ -24,8 +23,6 @@ brew autoconf
 brew cmake
 brew coreutils
 brew direnv
-brew elixir
-brew erlang
 brew fish
 brew freetype
 brew gdbm
