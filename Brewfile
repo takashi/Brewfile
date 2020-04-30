@@ -54,6 +54,8 @@ brew tree
 brew vim
 brew wxmac
 brew xz
+brew terraform
+brew anyenv
 
 tap rcmdnk/file
 brew brew-file
