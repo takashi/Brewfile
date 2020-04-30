@@ -1,7 +1,6 @@
 
 # tap repositories and their packages
 
-tap caskroom/cask
 cask 1password
 cask alfred
 cask docker
@@ -15,8 +14,6 @@ cask skitch
 cask slack
 cask spotify
 cask visual-studio-code
-
-tap caskroom/versions
 
 tap homebrew/core
 brew autoconf
