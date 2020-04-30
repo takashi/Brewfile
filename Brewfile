@@ -6,7 +6,7 @@ cask 1password
 cask alfred
 cask docker
 cask dropbox
-cask github-desktop
+cask github
 cask google-chrome
 cask google-japanese-ime
 cask iterm2
@@ -44,7 +44,6 @@ brew pcre2
 brew peco
 brew perl
 brew pkg-config
-brew postgresql
 brew pyenv
 brew rbenv
 brew rbenv-default-gems
@@ -60,5 +59,5 @@ tap rcmdnk/file
 brew brew-file
 
 # App Store applications
-appstore 539883307 LINE (4.10.0)
-appstore 441258766 Magnet (1.9.13)
+appstore 539883307 LINE (10.6.1)
+appstore 441258766 Magnet (2.4.5)
