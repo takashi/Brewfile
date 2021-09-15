@@ -45,4 +45,4 @@ brew xz
 brew asdf
 
 # App Store applications
-  appstore 441258766 Magnet (2.6.0)
+appstore 441258766 Magnet (2.6.0)
