@@ -1,17 +1,11 @@
-
-# tap repositories and their packages
+tap rcmdnk/file
+brew brew-file
 
 cask 1password
 cask alfred
 cask docker
-cask dropbox
 cask github
-cask google-chrome
-cask google-japanese-ime
-cask iterm2
-cask sequel-pro
-cask skitch
-cask slack
+cask sequel-ace
 cask spotify
 cask visual-studio-code
 
@@ -41,9 +35,6 @@ brew pcre2
 brew peco
 brew perl
 brew pkg-config
-brew pyenv
-brew rbenv
-brew rbenv-default-gems
 brew readline
 brew reattach-to-user-namespace
 brew tig
@@ -51,12 +42,7 @@ brew tree
 brew vim
 brew wxmac
 brew xz
-brew terraform
-brew anyenv
-
-tap rcmdnk/file
-brew brew-file
+brew asdf
 
 # App Store applications
-appstore 539883307 LINE (10.6.1)
-appstore 441258766 Magnet (2.4.5)
+  appstore 441258766 Magnet (2.6.0)
