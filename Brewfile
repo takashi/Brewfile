@@ -7,7 +7,7 @@ cask docker
 cask github
 cask sequel-ace
 cask spotify
-cask visual-studio-code
+cask visual-studio-code-insiders
 
 tap homebrew/core
 brew autoconf
