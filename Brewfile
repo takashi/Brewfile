@@ -1,5 +1,12 @@
-tap rcmdnk/file
-brew brew-file
+tap homebrew/core
+brew gdbm
+brew mas
+brew mpdecimal
+brew openssl@1.1
+brew python@3.9
+brew readline
+brew sqlite
+brew xz
 
 cask 1password
 cask alfred
@@ -7,7 +14,7 @@ cask docker
 cask github
 cask sequel-ace
 cask spotify
-cask visual-studio-code-insiders
+cask visual-studio-code
 
 tap homebrew/core
 brew autoconf
@@ -46,3 +53,6 @@ brew asdf
 
 # App Store applications
 appstore 441258766 Magnet (2.6.0)
+
+tap rcmdnk/file
+brew brew-file
