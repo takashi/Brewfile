@@ -17,6 +17,8 @@ cask spotify
 cask visual-studio-code
 
 tap homebrew/core
+tap bufbuild/buf
+
 brew autoconf
 brew cmake
 brew coreutils
@@ -50,6 +52,12 @@ brew vim
 brew wxmac
 brew xz
 brew asdf
+brew bazelisk
+brew buf
+brew protobuf
+brew protoc-gen-go
+brew protoc-gen-go-grpc
+brew clang-format
 
 # App Store applications
 appstore 441258766 Magnet (2.6.0)
