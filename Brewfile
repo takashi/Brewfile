@@ -61,6 +61,7 @@ brew clang-format
 
 # App Store applications
 appstore 441258766 Magnet (2.6.0)
+appstore 539883307 LINE (7.2.0)
 
 tap rcmdnk/file
 brew brew-file
