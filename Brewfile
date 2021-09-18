@@ -58,6 +58,8 @@ brew protobuf
 brew protoc-gen-go
 brew protoc-gen-go-grpc
 brew clang-format
+brew gpg
+brew gawk
 
 # App Store applications
 appstore 441258766 Magnet (2.6.0)
