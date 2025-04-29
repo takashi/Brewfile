@@ -26,6 +26,3 @@ brew gh
 # App Store applications
 appstore 441258766 Magnet (3.0.7)
 appstore 539883307 LINE (9.8.1)
-
-tap rcmdnk/file
-brew brew-file
