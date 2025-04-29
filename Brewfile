@@ -1,7 +1,5 @@
 tap homebrew/core
-brew gdbm
 brew mas
-brew readline
 
 cask 1password
 cask alfred
@@ -12,8 +10,6 @@ cask spotify
 cask cursor
 cask chatgpt
 cask superwhisper
-
-tap homebrew/core
 
 brew direnv
 brew fish
