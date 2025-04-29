@@ -1,6 +1,3 @@
-tap "homebrew/core"
-brew "mas"
-
 cask "1password"
 cask "alfred"
 cask "orbstack"
@@ -20,6 +17,5 @@ brew "tree"
 brew "asdf"
 brew "gh"
 
-# App Store applications
 mas "LINE", id: 539883307
 mas "Magnet", id: 441258766
